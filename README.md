@@ -6,6 +6,8 @@
 
 2025-1 '유니티 기초 뱀서라이크🧟언데드서바이버' 스터디 저장소 🖥️
 
+<img width="300px" src='https://assetstorev1-prd-cdn.unity3d.com/key-image/a487b112-0852-41fa-9c3a-ccca2002f734.webp' alt='골드메탈 유니티 강의'>
+
 </div>
 
 <br>
